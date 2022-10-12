@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:i9development_web_page/src/page/init_page.dart';
+import 'package:i9development_web_page/src/page/inite_page/init_page.dart';
 
 void main() {
   runApp(const MyApp());
